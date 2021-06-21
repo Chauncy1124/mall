@@ -15,7 +15,7 @@ public interface PmsProductAttributeService {
     /**
      * 根据分类分页获取商品属性
      * @param cid 分类id
-     * @param type 0->属性；2->参数
+     * @param type 0->规格；1->参数
      */
     List<PmsProductAttribute> getList(Long cid, Integer type, Integer pageSize, Integer pageNum);
 
@@ -41,5 +41,8 @@ public interface PmsProductAttributeService {
     @Transactional
     int delete(List<Long> ids);
 
+    /**
+     * 获取商品分类对应属性列表
+     */
     List<ProductAttrInfo> getProductAttrInfo(Long productCategoryId);
 }

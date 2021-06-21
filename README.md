@@ -2,13 +2,20 @@
 
 <p>
   <a href="#公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-macrozheng-blue.svg" alt="公众号"></a>
+  <a href="#公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E4%BA%A4%E6%B5%81-%E5%BE%AE%E4%BF%A1%E7%BE%A4-2BA245.svg" alt="交流"></a>
   <a href="https://github.com/macrozheng/mall-learning"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B-mall--learning-green.svg" alt="学习教程"></a>
   <a href="https://github.com/macrozheng/mall-swarm"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/Cloud%E7%89%88%E6%9C%AC-mall--swarm-brightgreen.svg" alt="SpringCloud版本"></a>
   <a href="https://github.com/macrozheng/mall-admin-web"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE-mall--admin--web-green.svg" alt="前端项目"></a>
-  <a href="#公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E4%BA%A4%E6%B5%81-%E5%BE%AE%E4%BF%A1%E7%BE%A4-2BA245.svg" alt="交流"></a>
-  <a href="http://qm.qq.com/cgi-bin/qm/qr?k=V6xu5c12j9qhnMUNdDRzakNxRKzOxibQ"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/QQ%E7%BE%A4-959351312-red.svg" alt="QQ群"></a>
   <a href="https://gitee.com/macrozheng/mall"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E7%A0%81%E4%BA%91-%E9%A1%B9%E7%9B%AE%E5%9C%B0%E5%9D%80-orange.svg" alt="码云"></a>
 </p>
+
+## 友情提示
+
+> 1. **快速体验项目**：[在线访问地址](http://www.macrozheng.com/admin/index.html)。
+> 2. **全套学习教程**：[《mall学习教程》](http://www.macrozheng.com/#/README)。
+> 3. **微服务版本**：基于Spring Cloud Hoxton & Alibaba的项目：[mall-swarm](https://github.com/macrozheng/mall-swarm)。
+> 4. **专属学习路线**：学习不走弯路，整理了套非常不错的[《mall专属学习路线》](#公众号)。
+> 5. **项目交流**：想要加群交流项目的朋友，可以加入[mall项目交流群](#公众号)。
 
 ## 前言
 
@@ -187,7 +194,7 @@ mall
 
 ## 公众号
 
-mall项目全套学习教程连载中，关注公众号「**macrozheng**」第一时间获取。
+学习不走弯路，关注公众号「**macrozheng**」，回复「**学习路线**」，获取mall项目专属学习路线！
 
 加微信群交流，公众号后台回复「**加群**」即可。
 
@@ -197,4 +204,4 @@ mall项目全套学习教程连载中，关注公众号「**macrozheng**」第�
 
 [Apache License 2.0](https://github.com/macrozheng/mall/blob/master/LICENSE)
 
-Copyright (c) 2018-2020 macrozheng
+Copyright (c) 2018-2021 macrozheng
